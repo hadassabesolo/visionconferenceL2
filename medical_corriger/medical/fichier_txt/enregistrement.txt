@@ -1,0 +1,174 @@
+departement : cardiologie
+departement : cardiologie
+hopital : CUK
+departement : cardiologie
+hopital : st_joseph
+departement : cardiologie
+nouveau patient : nom : LISA| prenom : marieCanada
+hopital : st_joseph
+hopital : st_joseph
+departement : cardiologie
+hopital : CMK
+departement : cardiologie
+hopital : CMK
+departement : ophtamologie
+hopital : maman_yemo
+departement : cardiologie
+hopital : kitambo
+departement : ophtamologie
+hopital : CUK
+departement : ophtamologie
+hopital : CUK
+departement : neurologie
+hopital : st_joseph
+departement : ophtamologie
+nouveau patient : nom : LISA| prenom : marieCanada
+nouveau patient : nom : kalala| prenom : estherMaroc
+nouveau patient : nom : kalala| prenom : estherMaroc
+nouveau patient : nom : kalala| prenom : estherMaroc
+nouveau patient : nom : kalala| prenom : estherMaroc
+hopital : monkole
+departement : cardiologie
+medecin : malika mena
+medecin : malika mena
+medecin : malika mena
+nouveau patient : nom : kalala| prenom : estherMaroc
+departement : cardiologie
+medecin : malika mena
+medecin : malika mena
+medecin : malika mena
+hopital : cinquantenaire
+departement : ophtamologie
+medecin : saul rajab
+medecin : saul rajab
+medecin : dimitri conde
+medecin : dimitri conde
+nouveau patient : nom : kalala| prenom : estherMaroc
+departement : cardiologie
+medecin : dimitri conde
+medecin : dimitri conde
+nouveau patient : nom : amisi| prenom : harmonyBelgique
+departement : cardiologie
+medecin : saul rajab
+nouveau patient : nom : kalala| prenom : estherMaroc
+departement : cardiologie
+nouveau patient : nom : amisi| prenom : aridjaMaroc
+departement : cardiologie
+departement : cardiologie
+nouveau patient : nom : amisi| prenom : aridjaMaroc
+hopital : cinquantenaire
+departement : ophtamologie
+medecin : malika mena
+nouveau patient : nom : amisi| prenom : aridjaMaroc
+departement : cardiologie
+medecin : malika mena
+medecin : malika mena
+nouveau patient : nom : vilma| prenom : saidMaroc
+hopital : cinquantenaire
+departement : cardiologie
+medecin : malika mena
+nouveau patient : nom : vilma| prenom : saidMaroc
+nouveau patient : nom : vilma| prenom : saidMaroc
+departement : cardiologie
+medecin : dimitri conde
+nouveau patient : nom : vilma| prenom : saidMaroc
+departement : cardiologie
+medecin : malika mena
+nouveau patient : nom : vilma| prenom : saidMaroc
+departement : cardiologie
+medecin : malika mena
+nouveau patient : nom : vilma| prenom : saidMaroc
+hopital : hj
+departement : cardiologie
+nouveau patient : nom : vilma| prenom : saidMaroc
+hopital : cinquantenaire
+departement : cardiologie
+hopital : cinquantenaire
+departement : cardiologie
+medecin : saul rajab
+nouveau patient : nom : besolo| prenom : fannyBelgique
+departement : neurologie
+medecin : malika mena
+nouveau patient : nom : ora| prenom : ritaSénégal
+hopital : ngaliema
+departement : neurologie
+medecin : saul rajab
+nouveau patient : nom : fall| prenom : maguetteSénégal
+departement : neurologie
+medecin : malika mena
+nouveau patient : nom : fall| prenom : aissatouSénégal
+departement : neurologie
+medecin : saul rajab
+medecin : saul rajab
+nouveau patient : nom : rita| prenom : esthefaniaSénégal
+departement : cardiologie
+medecin : malika mena
+hopital : cinquantenaire
+nouveau patient : nom : blanco| prenom : griseldaSénégal
+departement : cardiologie
+medecin : dimitri conde
+medecin : malika mena
+medecin : malika mena
+medecin : dimitri conde
+nouveau patient : nom : josepha| prenom : mutundSénégal
+hopital : ngaliema
+departement : cardiologie
+medecin : saul rajab
+nouveau patient : nom : deborah| prenom : mutundSénégal
+hopital : monkole
+departement : cardiologie
+medecin : malika mena
+nouveau patient : nom : deborah| prenom : mutundSénégal
+nouveau patient : nom : monterro| prenom : dominiqueTunisie
+departement : cardiologie
+medecin : dimitri conde
+nouveau patient : nom : marie| prenom : dominiqueTunisie
+hopital : maman_yemo
+departement : neurologie
+medecin : malika mena
+medecin : saul rajab
+nouveau patient : nom : besolo| prenom : hadassaRDC
+departement : neurologie
+medecin : 3
+medecin : 3
+nouveau patient : nom : besolo| prenom : estherRDC
+hopital : 1
+departement : 1
+medecin : 1
+hopital : 4
+nouveau patient : nom : | prenom : 
+nouveau patient : nom : | prenom : 
+nouveau patient : nom : | prenom : 
+hopital : 2
+departement : 9
+nouveau patient : nom : | prenom : 
+hopital : 1
+departement : 9
+departement : 1
+nouveau patient : nom : | prenom : 
+nouveau patient : nom : | prenom : 
+nouveau patient : nom : | prenom : 
+nouveau patient : nom : | prenom : 
+nouveau patient : nom : besolo| prenom : estherRDC
+hopital : 2
+departement : 1
+departement : 1
+nouveau patient : nom : besolo| prenom : estherRDC
+hopital : 3
+departement : 17
+nouveau patient : nom : besolo| prenom : estherRDC
+hopital : 2
+departement : 9
+medecin : 2
+nouveau patient : nom : besolo| prenom : estherRDC
+hopital : 2
+departement : 1
+medecin : 2
+nouveau patient : nom : besolo| prenom : fannyRDC
+hopital : 2
+departement : 1
+medecin : 2
+medecin : 2
+nouveau patient : nom : besolo| prenom : joyceRDC
+nouveau patient : nom : besolo| prenom : joyceRDC
+nouveau patient : nom : rita| prenom : oraSénégal
