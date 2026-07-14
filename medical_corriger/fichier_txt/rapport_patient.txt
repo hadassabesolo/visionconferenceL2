@@ -1,0 +1,12 @@
+
+monterro|monterro|2026-06-26|Femme|0975604627|rien|rien|rien|rien|rien|monkole|cardiologie|dimitri conde
+marie|dominique|2026-06-26|Femme|0975604627|maux de tet|rien|crise|non|shalcip|maman_yemo|neurologie|malika mena
+besolo|esther|2006-06-28|Femme|0975604627|maux de tete|vertige|rien|non|rien|1|1|1
+besolo|fanny|2006-06-28|Homme|0975604627|rien|rien|rien|non|rien|2|1|2
+||2006-06-28|Homme|0975604627|rien|rien|rien|non|rien|2|1|2
+||2006-06-28|Homme|0975604627|rien|rien|rien|non|rien|2|1|2
+||2006-06-28|Homme|0975604627|rien|rien|rien|non|rien|2|1|2
+rita|ora|2006-06-28|Femme|09756046785|catarat|yeux gonfler|aucun|non|rien|3|9|2
+manyayi|aaron|2006-05-17|Homme|0839802813|mal aux yeux|gonflement de l&#039;oeil droit|rien|non|aucun|1|9|4
+maria|elisa|2007-09-22|Femme|0865466222|toux|je ne sais pas|aucun|non|vitamine c|4|41|1
+lokindola|richard|1968-04-16|Homme|0975604655|crise cardiaque|aucun|aucun|non|aucun|5|1|2
